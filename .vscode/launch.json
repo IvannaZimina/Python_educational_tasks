@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶ Текущий файл (Python)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "task01_hello",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/task01_hello.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "task02_math",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/task02_math.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments (keep out of Git)
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/*.log
+.history/
+*.code-workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
