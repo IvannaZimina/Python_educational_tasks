@@ -1,15 +1,15 @@
 # Python Educational Tasks
 
-Небольшой учебный проект: независимые скрипты с заданиями в каталоге `src/`.
+A small learning project: independent scripts with tasks in the catalog `src/`.
 
 ## Структура
 ```
 Python_educational_tasks/
-├─ src/                # здесь задания .py
-├─ .vscode/            # настройки и профили запуска VS Code
-│  ├─ settings.json    # выбор интерпретатора и базовые опции
-│  └─ launch.json      # сценарии запуска (текущий файл / конкретные задачи)
+├─ src/                # tasks here .py
+├─ .vscode/            # VS Code settings and launch profiles
+│  ├─ settings.json    # interpreter selection and basic options
+│  └─ launch.json      # launch scripts (current file / specific tasks)
 ├─ .gitignore
 ├─ README.md
-└─ requirements.txt    # (опционально)
+└─ requirements.txt    # (optional)
 ```
