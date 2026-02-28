@@ -2,7 +2,7 @@
 
 A small learning project: independent scripts with tasks in the catalog `src/`.
 
-## Структура
+## Structure
 ```
 Python_educational_tasks/
 ├─ src/                # tasks here .py
