@@ -1,3 +1,4 @@
+# Homework 2: Number of days in months
 # Write a program that asks the user to enter the number of a month.
 # The program has to output the number of days in that month.
 # Also make sure if the user inputs anything ridiculous, the program has to give a corresponding feedback about it.
